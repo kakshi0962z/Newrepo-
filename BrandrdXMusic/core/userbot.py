@@ -75,7 +75,6 @@ class Userbot(Client):
                 await self.one.join_chat("Untold_CODER4")
                 await self.one.join_chat("About_me_pink")
                 await self.one.join_chat("moonlight_music4")
-
             except:
                 pass
             assistants.append(1)
