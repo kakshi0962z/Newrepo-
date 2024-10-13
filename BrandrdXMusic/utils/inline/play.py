@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/BRANDEDKING8"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Untold_CODER4"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/BRANDED_WORLD"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/moonlight_music4"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/BRANDEDKING8"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/BRANDED_WORLD"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/moonlight_music4"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/BRANDEDKING8"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Untold_CODER4"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/BRANDED_WORLD"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/moonlight_music4"
             ),
         ],
 
